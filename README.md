@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/opmmansoor/LeetCode/tree/master/2235-add-two-integers) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/opmmansoor/LeetCode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
