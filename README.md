@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/opmmansoor/LeetCode/tree/master/2235-add-two-integers) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/opmmansoor/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/opmmansoor/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -21,8 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/opmmansoor/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/opmmansoor/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/opmmansoor/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Hash Table
+|  |
+| ------- |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/opmmansoor/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 <!---LeetCode Topics End-->
