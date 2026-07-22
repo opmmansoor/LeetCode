@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/opmmansoor/LeetCode/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/opmmansoor/LeetCode/tree/master/2235-add-two-integers) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/opmmansoor/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/opmmansoor/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
