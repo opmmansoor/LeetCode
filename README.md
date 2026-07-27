@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/opmmansoor/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/opmmansoor/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/opmmansoor/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Number Theory
@@ -37,5 +38,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/opmmansoor/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/opmmansoor/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/opmmansoor/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
