@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/opmmansoor/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/opmmansoor/LeetCode/tree/master/0268-missing-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/opmmansoor/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/opmmansoor/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/opmmansoor/LeetCode/tree/master/2235-add-two-integers) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/opmmansoor/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
