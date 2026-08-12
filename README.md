@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/opmmansoor/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/opmmansoor/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/opmmansoor/LeetCode/tree/master/0414-third-maximum-number) |
+| [1122-relative-sort-array](https://github.com/opmmansoor/LeetCode/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/opmmansoor/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/opmmansoor/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/opmmansoor/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/opmmansoor/LeetCode/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/opmmansoor/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1122-relative-sort-array](https://github.com/opmmansoor/LeetCode/tree/master/1122-relative-sort-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/opmmansoor/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/opmmansoor/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/opmmansoor/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/opmmansoor/LeetCode/tree/master/0414-third-maximum-number) |
+| [1122-relative-sort-array](https://github.com/opmmansoor/LeetCode/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/opmmansoor/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/opmmansoor/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/opmmansoor/LeetCode/tree/master/3731-find-missing-elements) |
@@ -73,4 +76,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/opmmansoor/LeetCode/tree/master/0268-missing-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/opmmansoor/LeetCode/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/opmmansoor/LeetCode/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/opmmansoor/LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
