@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/opmmansoor/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/opmmansoor/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/opmmansoor/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/opmmansoor/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/opmmansoor/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/opmmansoor/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/opmmansoor/LeetCode/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/opmmansoor/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/opmmansoor/LeetCode/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/opmmansoor/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/opmmansoor/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/opmmansoor/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/opmmansoor/LeetCode/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/opmmansoor/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/opmmansoor/LeetCode/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/opmmansoor/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/opmmansoor/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
