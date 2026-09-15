@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/opmmansoor/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/opmmansoor/LeetCode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/opmmansoor/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/opmmansoor/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/opmmansoor/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/opmmansoor/LeetCode/tree/master/0414-third-maximum-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/opmmansoor/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/opmmansoor/LeetCode/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/opmmansoor/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1122-relative-sort-array](https://github.com/opmmansoor/LeetCode/tree/master/1122-relative-sort-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/opmmansoor/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/opmmansoor/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/opmmansoor/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/opmmansoor/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
