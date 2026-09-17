@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/opmmansoor/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/opmmansoor/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/opmmansoor/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2706-buy-two-chocolates](https://github.com/opmmansoor/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/opmmansoor/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/opmmansoor/LeetCode/tree/master/3731-find-missing-elements) |
 ## Number Theory
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/opmmansoor/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/opmmansoor/LeetCode/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/opmmansoor/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2706-buy-two-chocolates](https://github.com/opmmansoor/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/opmmansoor/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/opmmansoor/LeetCode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/opmmansoor/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/opmmansoor/LeetCode/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
