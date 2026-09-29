@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/opmmansoor/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/opmmansoor/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/opmmansoor/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/opmmansoor/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/opmmansoor/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2000-reverse-prefix-of-word](https://github.com/opmmansoor/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3894-traffic-signal-color](https://github.com/opmmansoor/LeetCode/tree/master/3894-traffic-signal-color) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/opmmansoor/LeetCode/tree/master/1122-relative-sort-array) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/opmmansoor/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Quicksort
 |  |
 | ------- |
@@ -134,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/opmmansoor/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2706-buy-two-chocolates](https://github.com/opmmansoor/LeetCode/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
