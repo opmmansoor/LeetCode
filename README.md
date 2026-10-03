@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/opmmansoor/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/opmmansoor/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/opmmansoor/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/opmmansoor/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/opmmansoor/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/opmmansoor/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/opmmansoor/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/opmmansoor/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/opmmansoor/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/opmmansoor/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/opmmansoor/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/opmmansoor/LeetCode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/opmmansoor/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/opmmansoor/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/opmmansoor/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/opmmansoor/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/opmmansoor/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/opmmansoor/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1122-relative-sort-array](https://github.com/opmmansoor/LeetCode/tree/master/1122-relative-sort-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/opmmansoor/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/opmmansoor/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/opmmansoor/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/opmmansoor/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/opmmansoor/LeetCode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/opmmansoor/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/opmmansoor/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/opmmansoor/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/opmmansoor/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/opmmansoor/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Counting Sort
 |  |
