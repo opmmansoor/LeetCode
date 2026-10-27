@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/opmmansoor/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/opmmansoor/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/opmmansoor/LeetCode/tree/master/3731-find-missing-elements) |
+| [3978-unique-middle-element](https://github.com/opmmansoor/LeetCode/tree/master/3978-unique-middle-element) |
 ## Number Theory
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/opmmansoor/LeetCode/tree/master/1122-relative-sort-array) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/opmmansoor/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1748-sum-of-unique-elements](https://github.com/opmmansoor/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [3978-unique-middle-element](https://github.com/opmmansoor/LeetCode/tree/master/3978-unique-middle-element) |
 ## Quicksort
 |  |
 | ------- |
